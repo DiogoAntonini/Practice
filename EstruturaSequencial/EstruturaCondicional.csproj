@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exc1\Class1.cs" />
+    <Compile Include="Exc2\Class1.cs" />
+    <Compile Include="Exc3\Class1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -50,9 +53,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Exc1\" />
-    <Folder Include="Exc2\" />
-    <Folder Include="Exc3\" />
     <Folder Include="Exc4\" />
     <Folder Include="Exc5\" />
     <Folder Include="Exc6\" />
